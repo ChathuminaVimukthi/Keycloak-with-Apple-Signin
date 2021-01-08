@@ -3,7 +3,7 @@ For now keycloak does not provide a ready to use identity provider for Apple lik
 Since the Apple Sign in is mandatory to publish apps in App store (only applicable if your app has other social logins),
 this document contains how to integrate Apple Sign in with keycloak.
 
-##Pre-requisites
+## Pre-requisites
 * Keycloak - 11.0.2 (Tested in this version, should work in the later versions. Older versions might not support)
 * Apple Developer Account (Should have the capability to publish apps)
 
